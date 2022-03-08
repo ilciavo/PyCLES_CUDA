@@ -1,4 +1,4 @@
-__author__ = 'pressel'
+__author__ = 'ilciavo'
 
 import numpy as np
 #cimport numpy as np

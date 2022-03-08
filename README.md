@@ -1,6 +1,6 @@
 # PyCLES_CUDA
 
-Old repository of Particle Tracers that shows the use of CUDA with PyCLES.
+This old repository shows the use of Lagrangian Particle Tracers and integration of CUDA with PyCLES.
 
 The notebook (Manual.ipynb) includes all the necessary steps for installation, compilation, run, and a small tutorial.
 
